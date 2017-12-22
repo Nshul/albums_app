@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
         shadowOffset: { width: 0, height: 20 },
         shadowOpacity: 0.2,
         // Android 5.0+ support elevation
-        elevation: 9,
+        elevation: 5,
     }
 });
 
